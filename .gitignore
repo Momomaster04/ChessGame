@@ -1,0 +1,7 @@
+build/
+dist/
+nbproject/private/
+*.class
+derby.log
+ChessGame/
+ChessGame_ebd/
